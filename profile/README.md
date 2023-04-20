@@ -1,3 +1,3 @@
 ## NanoSwap intends to create a peer to peer uncollateralized cryptocurrency lending platform.
 
-![system drawio (3)](https://user-images.githubusercontent.com/5047455/233403068-ab60ef0e-687c-41b2-ac97-9823d1d0f454.png)
+![system drawio (4)](https://user-images.githubusercontent.com/5047455/233404357-ee5a7e37-a75b-44cb-ae96-d0b66f4e38e1.png)
