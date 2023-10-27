@@ -7,3 +7,7 @@
 <p align="center">
   <img src="https://github.com/nanoswap/.github/assets/5047455/a5375614-ae10-4c0a-8a0b-db3a1aaf27c5">
 </p>
+
+<p align="center">
+  <img src="https://github.com/nanoswap/.github/assets/5047455/59d85e18-f82a-493b-a6ec-80fd09ca05d1">
+</p>
